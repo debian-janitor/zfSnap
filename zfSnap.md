@@ -1,4 +1,4 @@
-# Summary
+# zfSnap
 
 zfSnap is a simple sh script to make rolling zfs snapshots with cron. The main
 advantage of zfSnap is it's written in 100% pure _/bin/sh_ so it doesn't
