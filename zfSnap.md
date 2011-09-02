@@ -63,7 +63,7 @@ modifiers must be used in this ordering.
   * **-z** - round down seconds in the snapshot name to 00 (such as 18:06:15 to 18:06:00)
   * **-n** - perform a test run with no changes made
   * **-v** - verbose output
-  * **-zpool28fix** - Workaround for zpool v28 zfs destroy -r bug (More info below)
+  * **-zpool28fix** - Workaround for zpool v28 zfs destroy -r bug (See [[Misc info]])
 
 **NOTE:** Generic options must be specified at beginning of command line
 
