@@ -16,7 +16,7 @@ officially supports zfs.
 zfSnap might work on GNU/Linux out of the box, but it hasn't been tested
 because zfs on Linux hasn't matured.
 
-Please let me know if you've tried zfSnap on GNU/Linux (details below)
+Please let me (graudeejs at gmail dot com) know if you've tried zfSnap on GNU/Linux
 
 
 
