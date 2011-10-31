@@ -13,11 +13,7 @@ officially supports zfs.
 
 ## GNU/Linux
 
-zfSnap might work on GNU/Linux out of the box, but it hasn't been tested
-because zfs on Linux hasn't matured.
-
-Please let me (graudeejs at gmail dot com) know if you've tried zfSnap on GNU/Linux
-
+zfSnap was reported to work on Ubuntu Server 11.10 64-Bit
 
 
 ## Solaris/OpenSolaris?
