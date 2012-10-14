@@ -30,6 +30,7 @@ You should not pass **-v** and **-d** flags.
   * **weekly_zfsnap_flags**
   * **monthly_zfsnap_flags**
   * **reboot_zfsnap_flags**
+  * **hourly_zfsnap_delete_flags**
   * **daily_zfsnap_delete_flags**
   * **weekly_zfsnap_delete_flags**
   * **monthly_zfsnap_delete_flags**
@@ -69,6 +70,7 @@ Possible values: YES|NO
   * **weekly_zfsnap_verbose**
   * **monthly_zfsnap_verbose**
   * **reboot_zfsnap_verbose**
+  * **hourly_zfsnap_delete_verbose**
   * **daily_zfsnap_delete_verbose**
   * **weekly_zfsnap_delete_verbose**
   * **monthly_zfsnap_delete_verbose**
@@ -115,6 +117,7 @@ By default ttl for hourly snapshots = 3d, for daily and reboot = 1w, for weekly
 
 Possible values: YES|NO
 
+  * **hourly_zfsnap_delete_enable**
   * **daily_zfsnap_delete_enable**
   * **weekly_zfsnap_delete_enable**
   * **monthly_zfsnap_delete_enable**
@@ -128,6 +131,7 @@ Prefixes should be separated with space.
 Deletion of old snapshots with "hourly-", "daily-", "weekly-", "monthly-" and
 "reboot-" prefixes is hard-coded.
 
+  * **hourly_zfsnap_delete_prefixes**
   * **daily_zfsnap_delete_prefixes**
   * **weekly_zfsnap_delete_prefixes**
   * **monthly_zfsnap_delete_prefixes**
