@@ -43,7 +43,7 @@ Some related mails on mailinglist:
 zfSnap is licensed with BEER-WARE license
 
 	# "THE BEER-WARE LICENSE":
-	# <aldis@bsdroot.lv> wrote this file. As long as you retain this notice you
+	# <graudeejs@yandex.com> wrote this file. As long as you retain this notice you
 	# can do whatever you want with this stuff. If we meet some day, and you think
 	# this stuff is worth it, you can buy me a beer in return Aldis Berjoza
 
@@ -78,5 +78,5 @@ zfSnap git repository <https://github.com/graudeejs/zfSnap>
 
 ## Feedback
 
-If you like **zfSnap** send me a feedback <zfsnap@bsdroot.lv> (In English,
+If you like **zfSnap** send me a feedback <graudeejs@yandex.com> (In English,
 Latvian or Russian languages)
