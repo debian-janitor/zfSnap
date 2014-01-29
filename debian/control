@@ -1,5 +1,5 @@
 Source: zfsnap
-Section: unknown
+Section: admin
 Priority: extra
 Maintainer: John Goerzen <jgoerzen@complete.org>
 Build-Depends: debhelper (>= 8.0.0)
