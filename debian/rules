@@ -11,3 +11,9 @@
 
 %:
 	dh $@ 
+
+override_dh_auto_install-indep:
+	cp zfSnap.sh debian/zfsnap/usr/sbin/zfSnap
+	chmod 0755 debian/zfsnap/usr/sbin/zfSnap
+	chown root:root debian/zfsnap/usr/sbin/zfSnap
+
