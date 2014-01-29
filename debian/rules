@@ -13,7 +13,7 @@
 	dh $@ 
 
 override_dh_auto_clean:
-	rm debian/wikidocs/*.html
+	rm  -f debian/wikidocs/*.html
 	dh_auto_clean
 
 override_dh_auto_build-indep:
