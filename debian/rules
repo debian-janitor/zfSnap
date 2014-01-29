@@ -12,6 +12,9 @@
 %:
 	dh $@ 
 
+override_dh_auto_build-indep:
+	cd debian/wikidocs && for ASDF in *.md; do pandoc -f markdown -t html "$$ASDF" > "../tmp/$$ASDF.html"; done
+
 override_dh_auto_install-indep:
 	cp zfSnap.sh debian/zfsnap/usr/sbin/zfSnap
 	chmod 0755 debian/zfsnap/usr/sbin/zfSnap

@@ -1,2 +1,3 @@
 README
 debian/wikidocs/*
+debian/tmp/*.html
