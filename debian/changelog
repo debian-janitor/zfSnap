@@ -1,3 +1,9 @@
+zfsnap (1.11.1-2) unstable; urgency=low
+
+  * Remove spurious comment in debian/copyright.
+
+ -- John Goerzen <jgoerzen@complete.org>  Tue, 18 Feb 2014 13:38:01 -0600
+
 zfsnap (1.11.1-1) unstable; urgency=low
 
   * Initial release (Closes: #737077)
