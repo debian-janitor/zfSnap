@@ -9,8 +9,6 @@ License: Aldis Berjoza "BEER-WARE LICENSE"
  can do whatever you want with this stuff. If we meet some day, and you think
  this stuff is worth it, you can buy me a beer in return. Aldis Berjoza
 
-# If you want to use GPL v2 or later for the /debian/* files use 
-# the following clauses, or change it to suit. Delete these two lines
 Files: debian/*
 Copyright: 2014 John Goerzen <jgoerzen@complete.org>
 License: GPL-2+
