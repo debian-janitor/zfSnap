@@ -1,3 +1,9 @@
+zfsnap (1.11.1-4) unstable; urgency=low
+
+  * Support GNU/kFreeBSD.  Closes: #742275.
+
+ -- John Goerzen <jgoerzen@complete.org>  Sun, 29 May 2016 21:26:23 -0500
+
 zfsnap (1.11.1-3) unstable; urgency=medium
 
   * Adding dependcy on bc.  Closes: #750487.
