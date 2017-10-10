@@ -1,3 +1,10 @@
+zfsnap (1.11.1-5) unstable; urgency=medium
+
+  * Clean up deps for zfs-fuse removal.
+  * Bump standards-version and debhelper compat.
+
+ -- John Goerzen <jgoerzen@complete.org>  Tue, 10 Oct 2017 08:51:56 -0500
+
 zfsnap (1.11.1-4) unstable; urgency=low
 
   * Support GNU/kFreeBSD.  Closes: #742275.
