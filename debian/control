@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/jgoerzen/zfSnap
 
 Package: zfsnap
 Architecture: all
-Depends: zfsutils-linux | zfsutils | zfs-fuse zfs, ${misc:Depends}, bc
+Depends: zfsutils-linux | zfsutils | zfs-fuse | zfs, ${misc:Depends}, bc
 Description: Automatic snapshot creation and removal for ZFS
  zfSnap is a simple sh script to make rolling zfs snapshots with cron. The main
  advantage of zfSnap is it's written in 100% pure /bin/sh so it doesn't require
