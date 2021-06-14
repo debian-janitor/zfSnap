@@ -2,7 +2,7 @@ Source: zfsnap
 Section: admin
 Priority: extra
 Maintainer: John Goerzen <jgoerzen@complete.org>
-Build-Depends: debhelper (>= 8.0.0), pandoc
+Build-Depends: debhelper, pandoc
 Standards-Version: 3.9.3
 Homepage: https://github.com/graudeejs/zfSnap
 Vcs-Git: https://github.com/jgoerzen/zfSnap.git
@@ -23,4 +23,3 @@ Description: Automatic snapshot creation and removal for ZFS
  Timestamp includes the date and time when the snapshot was created and
  TimeToLive (TTL) is the amount of time for the snapshot to stay alive before
  it's ready for deletion.
-
