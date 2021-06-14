@@ -1,3 +1,10 @@
+zfsnap (1.11.1-5) UNRELEASED; urgency=medium
+
+  * Remove constraints unnecessary since stretch:
+    + Build-Depends: Drop versioned constraint on debhelper.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Mon, 14 Jun 2021 08:24:19 -0000
+
 zfsnap (1.11.1-4) unstable; urgency=low
 
   * Support GNU/kFreeBSD.  Closes: #742275.
