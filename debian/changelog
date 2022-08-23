@@ -1,3 +1,10 @@
+zfsnap (1.11.1-6) unstable; urgency=medium
+
+  * Move to contrib due to issues with zfs-fuse.
+  * Ack NMU.
+
+ -- John Goerzen <jgoerzen@complete.org>  Tue, 23 Aug 2022 07:57:44 -0500
+
 zfsnap (1.11.1-5.1) unstable; urgency=medium
 
   * Non-maintainer upload.
