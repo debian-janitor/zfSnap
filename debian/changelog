@@ -1,3 +1,9 @@
+zfsnap (1.11.1-7) unstable; urgency=medium
+
+  * Rebuild with source-only upload for transition to contrib.
+
+ -- John Goerzen <jgoerzen@complete.org>  Tue, 23 Aug 2022 19:59:51 -0500
+
 zfsnap (1.11.1-6) unstable; urgency=medium
 
   * Move to contrib due to issues with zfs-fuse.
