@@ -1,3 +1,10 @@
+zfsnap (1.11.1-8) unstable; urgency=medium
+
+  * Remove constraints unnecessary since stretch:
+    + Build-Depends: Drop versioned constraint on debhelper.
+
+ -- John Goerzen <jgoerzen@complete.org>  Tue, 23 Aug 2022 20:04:25 -0500
+
 zfsnap (1.11.1-7) unstable; urgency=medium
 
   * Rebuild with source-only upload for transition to contrib.
