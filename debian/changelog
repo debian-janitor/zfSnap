@@ -4,6 +4,7 @@ zfsnap (1.11.1-9) UNRELEASED; urgency=medium
   * Use secure copyright file specification URI.
   * Bump debhelper dependency to >= 9, since that's what is used in
     debian/compat.
+  * Bump debhelper from deprecated 9 to 13.
 
  -- Debian Janitor <janitor@jelmer.uk>  Sat, 15 Oct 2022 14:33:05 -0000
 
