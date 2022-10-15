@@ -1,6 +1,6 @@
 Source: zfsnap
 Section: contrib/admin
-Priority: extra
+Priority: optional
 Maintainer: John Goerzen <jgoerzen@complete.org>
 Build-Depends: debhelper-compat (= 13), pandoc
 Standards-Version: 4.1.1
