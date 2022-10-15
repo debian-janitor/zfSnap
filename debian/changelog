@@ -1,6 +1,7 @@
 zfsnap (1.11.1-9) UNRELEASED; urgency=medium
 
   * Trim trailing whitespace.
+  * Use secure copyright file specification URI.
 
  -- Debian Janitor <janitor@jelmer.uk>  Sat, 15 Oct 2022 14:33:05 -0000
 
