@@ -8,6 +8,7 @@ zfsnap (1.11.1-9) UNRELEASED; urgency=medium
   * Set debhelper-compat version in Build-Depends.
   * Change priority extra to priority optional.
   * Set upstream metadata fields: Repository-Browse.
+  * Explicitly specify source format.
 
  -- Debian Janitor <janitor@jelmer.uk>  Sat, 15 Oct 2022 14:33:05 -0000
 
